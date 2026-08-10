@@ -1,6 +1,6 @@
 <RCC>
     <qresource prefix="/kh/gui">
-        <file>icons/bumpcap.svg</file>
+        <file>icons/bumpcap.png</file>
         <file>icons/toolbar-refresh.svg</file>
         <file>icons/toolbar-install.svg</file>
         <file>icons/toolbar-remove.svg</file>

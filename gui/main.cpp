@@ -21,7 +21,7 @@ int main(int argc, char *argv[]) {
     QApplication::setApplicationVersion(QStringLiteral("0.1.0"));
     QApplication::setOrganizationName(QStringLiteral("Bumpcap"));
     QApplication::setDesktopFileName(QStringLiteral("org.bumpcap.Bumpcap"));
-    QApplication::setWindowIcon(QIcon(QStringLiteral(":/kh/gui/icons/bumpcap.svg")));
+    QApplication::setWindowIcon(QIcon(QStringLiteral(":/kh/gui/icons/bumpcap.png")));
 
     QCommandLineParser parser;
     parser.setApplicationDescription(
