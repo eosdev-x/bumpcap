@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/kh/gui">
+        <file>icons/bumpcap.svg</file>
+        <file>icons/toolbar-refresh.svg</file>
+        <file>icons/toolbar-install.svg</file>
+        <file>icons/toolbar-remove.svg</file>
+        <file>icons/toolbar-pin.svg</file>
+        <file>icons/toolbar-settings.svg</file>
+        <file>icons/toolbar-boot-order.svg</file>
+        <file>icons/status-installed.svg</file>
+        <file>icons/status-running.svg</file>
+        <file>icons/status-update.svg</file>
+        <file>icons/status-available.svg</file>
+        <file>icons/status-pinned.svg</file>
+        <file>icons/status-error.svg</file>
+        <file>icons/source-fedora.svg</file>
+        <file>icons/source-rawhide.svg</file>
+        <file>icons/source-cachyos.svg</file>
+        <file>icons/source-kernelorg.svg</file>
+        <file>icons/action-check.svg</file>
+        <file>icons/action-warning.svg</file>
+        <file>icons/action-info.svg</file>
+        <file>icons/action-lock.svg</file>
+        <file>icons/action-unlock.svg</file>
+        <file>icons/action-note.svg</file>
+        <file>icons/action-copy.svg</file>
+        <file>icons/action-export.svg</file>
+        <file>icons/action-search.svg</file>
+    </qresource>
+</RCC>

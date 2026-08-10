@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="Bumpcap icon">
+  <defs>
+    <linearGradient id="plate" x1="20" y1="16" x2="108" y2="112" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3C6EB4"/>
+      <stop offset="1" stop-color="#2A5299"/>
+    </linearGradient>
+  </defs>
+  <rect x="10" y="10" width="108" height="108" rx="22" fill="url(#plate)"/>
+  <circle cx="64" cy="64" r="33" fill="#f8f9fb"/>
+  <path d="M64 25v14M64 89v14M25 64h14M89 64h14M36.4 36.4l9.9 9.9M81.7 81.7l9.9 9.9M91.6 36.4l-9.9 9.9M46.3 81.7l-9.9 9.9" stroke="#f8f9fb" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="64" cy="64" r="21" fill="#263238"/>
+  <circle cx="55" cy="59" r="3.5" fill="#f8f9fb"/>
+  <circle cx="73" cy="59" r="3.5" fill="#f8f9fb"/>
+  <path d="M54 75c6 4 14 4 20 0" fill="none" stroke="#f8f9fb" stroke-width="4" stroke-linecap="round"/>
+  <path d="M46 45c6-8 30-8 36 0" fill="none" stroke="#f2c94c" stroke-width="6" stroke-linecap="round"/>
+</svg>

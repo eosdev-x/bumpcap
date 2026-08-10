@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>org.bumpcap.Bumpcap</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0-or-later</project_license>
+  <developer id="org.bumpcap">
+    <name>Bumpcap Developers</name>
+  </developer>
+  <name>Bumpcap</name>
+  <summary>Browse, install, and manage Linux kernels on Fedora</summary>
+  <description>
+    <p>
+      Bumpcap helps Fedora users inspect installed kernels, find available
+      updates, pin known-good kernels, record notes, and manage boot defaults.
+    </p>
+    <p>
+      Privileged actions are handled through PackageKit and a narrow
+      Polkit-gated helper for operations such as enabling approved COPR
+      repositories and updating GRUB defaults.
+    </p>
+  </description>
+  <launchable type="desktop-id">org.bumpcap.Bumpcap.desktop</launchable>
+  <url type="homepage">https://github.com/bumpcap/bumpcap</url>
+  <url type="bugtracker">https://github.com/bumpcap/bumpcap/issues</url>
+  <screenshots>
+    <screenshot type="default">
+      <caption>Bumpcap main window</caption>
+      <image>https://bumpcap.example.invalid/screenshots/main.png</image>
+    </screenshot>
+  </screenshots>
+  <releases>
+    <release version="0.1.0" date="2026-08-09">
+      <description>
+        <p>Initial development release.</p>
+      </description>
+    </release>
+  </releases>
+  <content_rating type="oars-1.1"/>
+</component>

@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="/kh/state/migrations">
+    <file alias="0001_init.sql">migrations/0001_init.sql</file>
+  </qresource>
+</RCC>

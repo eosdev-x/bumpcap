@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Bumpcap
+Comment=Browse, install, and manage Linux kernels
+Exec=bumpcap
+Icon=org.bumpcap.Bumpcap
+Terminal=false
+Categories=System;Utility;
+Keywords=kernel;linux;fedora;update;boot;
+StartupNotify=true

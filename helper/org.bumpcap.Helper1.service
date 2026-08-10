@@ -1,0 +1,4 @@
+[D-BUS Service]
+Name=org.bumpcap.Helper1
+Exec=/usr/libexec/bumpcap/bumpcap-helper
+User=root
