@@ -1,3 +1,5 @@
+<img src="gui/resources/icons/bumpcap.png" width="64" align="left" style="margin-right: 12px">
+
 # Bumpcap
 
 Bumpcap is a Qt 6 desktop application for browsing, installing, and
